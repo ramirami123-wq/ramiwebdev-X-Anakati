@@ -265,12 +265,136 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_XUXrRQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wpXKNw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Smooth Skin, Effortless Life",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_i8Kqdt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Say goodbye to daily shaving and endless routines. Wake up to silky-smooth skin and embrace a life of confidence, knowing you're always ready to shine</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_Dzk7fy": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://products/ipl-hair-removal",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wpXKNw",
+        "text_i8Kqdt",
+        "button_Dzk7fy"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/underarm_bikini_1875x_c441455c-8421-45b4-b9e6-a52dbda165e3.webp",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#66550a",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees_EhYJUx": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_ENUnGq": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "FREE DELIVERY",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_enmxgX": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "chat_bubble",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "24/7 SUPPORT",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_PBEE7a": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "VEGAN & CRUELTY-FREE",
+            "title_size": "h3",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_ENUnGq",
+        "guarantee_enmxgX",
+        "guarantee_PBEE7a"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "use_custom_colors": true,
+        "colors_icon": "#66550a",
+        "colors_text": "#000000",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "slideshow",
     "logocloud_F7XVFm",
     "rich-text-0",
-    "featured_product_TLEq4W"
+    "featured_product_TLEq4W",
+    "image_with_text_XUXrRQ",
+    "guarantees_EhYJUx"
   ]
 }
