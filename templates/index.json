@@ -163,12 +163,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "share_NNRCC8": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "read_more_WcaDtE": {
           "type": "read_more",
           "settings": {
@@ -183,7 +177,6 @@
         "price_ANDLrV",
         "variant_picker_Yzew9D",
         "buy_buttons_x6VxLz",
-        "share_NNRCC8",
         "read_more_WcaDtE"
       ],
       "custom_css": [
@@ -244,7 +237,7 @@
         "slide_NbfhW9"
       ],
       "settings": {
-        "ss-title": "Trusted by",
+        "ss-title": "",
         "heading_custom": false,
         "heading_font": "assistant_n4",
         "header_size": 30,
@@ -258,7 +251,7 @@
         "slider_gap": 30,
         "slider_gap_mobile": 30,
         "slider_direction": "left",
-        "icon_width": 200,
+        "icon_width": 100,
         "header_color": "#121212",
         "border_color": "#ffffff",
         "background-color": "#ffffff",
@@ -276,8 +269,8 @@
   },
   "order": [
     "slideshow",
+    "logocloud_F7XVFm",
     "rich-text-0",
-    "featured_product_TLEq4W",
-    "logocloud_F7XVFm"
+    "featured_product_TLEq4W"
   ]
 }
