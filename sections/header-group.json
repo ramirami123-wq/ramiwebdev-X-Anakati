@@ -45,6 +45,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".icon-search{display: none;}"
+      ],
       "settings": {
         "logo": "shopify://shop_images/2.png",
         "logo_height": 90,
