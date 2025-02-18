@@ -375,5 +375,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".caption.rte{display:none;}"
+    ]
   }
 }
