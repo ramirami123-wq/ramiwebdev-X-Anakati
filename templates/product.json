@@ -22,9 +22,9 @@
         "title": {
           "type": "title",
           "settings": {
-            "title_size": "h2",
+            "title_size": "h1",
             "show_price": false,
-            "price_size": "medium"
+            "price_size": "large"
           }
         },
         "price": {
@@ -91,7 +91,8 @@
         "custom_liquid_BNLaL9"
       ],
       "custom_css": [
-        "button {border-radius: 1rem;}"
+        "button {border-radius: 1rem;}",
+        "h1,h2,h3,h4,h5,h6{font-weight:bold;}"
       ],
       "settings": {
         "enable_sticky_info": true,
