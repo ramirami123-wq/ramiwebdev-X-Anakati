@@ -326,6 +326,37 @@
         "padding_bottom": 36
       }
     },
+    "scrolling_promotion_QeaRtj": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_Ax7iwX": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "FREE DELIVERY ALL OVER LEBANON",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_Ax7iwX"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#66550a",
+        "colors_text": "#ffffff",
+        "colors_background": "#66550a",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "faq_BpdYXG": {
       "type": "faq",
       "blocks": {
@@ -418,6 +449,9 @@
         "guarantee_enmxgX",
         "guarantee_PBEE7a"
       ],
+      "custom_css": [
+        "span{color:white;}"
+      ],
       "settings": {
         "layout": "default",
         "column_alignment": "center",
@@ -446,6 +480,7 @@
     "rich-text-0",
     "featured_product_TLEq4W",
     "image_with_text_XUXrRQ",
+    "scrolling_promotion_QeaRtj",
     "faq_BpdYXG",
     "guarantees_EhYJUx"
   ]
