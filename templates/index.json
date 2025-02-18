@@ -187,7 +187,7 @@
         "read_more_WcaDtE"
       ],
       "custom_css": [
-        "button{border-radius:1rem;}"
+        "button {border-radius: 1rem;}"
       ],
       "settings": {
         "product": "ipl-hair-removal",
@@ -204,11 +204,80 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "logocloud_F7XVFm": {
+      "type": "logocloud",
+      "blocks": {
+        "slide_xdPMp8": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design-removebg-preview_8e5617aa-8132-4559-ba8b-c61ef3776ca7.png",
+            "link": ""
+          }
+        },
+        "slide_BThGC4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_1.png",
+            "link": ""
+          }
+        },
+        "slide_NkPVNz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_2.png",
+            "link": ""
+          }
+        },
+        "slide_NbfhW9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_3.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_xdPMp8",
+        "slide_BThGC4",
+        "slide_NkPVNz",
+        "slide_NbfhW9"
+      ],
+      "settings": {
+        "ss-title": "Trusted by",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "header_size": 30,
+        "header_align": "center",
+        "scrolling_velocity": 10,
+        "pause_hover": false,
+        "shadow": false,
+        "sliders_mt": 16,
+        "logo_padding_top": 0,
+        "logo_padding_bottom": 0,
+        "slider_gap": 30,
+        "slider_gap_mobile": 30,
+        "slider_direction": "left",
+        "icon_width": 200,
+        "header_color": "#121212",
+        "border_color": "#ffffff",
+        "background-color": "#ffffff",
+        "slider-background-color": "#ffffff",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
     "slideshow",
     "rich-text-0",
-    "featured_product_TLEq4W"
+    "featured_product_TLEq4W",
+    "logocloud_F7XVFm"
   ]
 }
