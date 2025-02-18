@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/o-BIKINI-BODY.jpg",
+            "image": "shopify://shop_images/TM__8425.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-left",
             "subheading": "",
@@ -48,7 +48,7 @@
         "full_width": true,
         "image_behavior": "none",
         "mobile_text_alignment": "left",
-        "mobile_image_ratio": "400px",
+        "mobile_image_ratio": "600px",
         "show_text_below": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#66550a",
