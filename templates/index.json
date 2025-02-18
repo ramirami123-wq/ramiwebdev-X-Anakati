@@ -274,7 +274,7 @@
           "settings": {
             "heading": "Smooth Skin, Effortless Life",
             "heading_size": "h1",
-            "heading_tag": "h2"
+            "heading_tag": "h4"
           }
         },
         "text_i8Kqdt": {
@@ -450,7 +450,7 @@
         "guarantee_PBEE7a"
       ],
       "custom_css": [
-        "span{color:white;}"
+        "span {color: white;}"
       ],
       "settings": {
         "layout": "default",
