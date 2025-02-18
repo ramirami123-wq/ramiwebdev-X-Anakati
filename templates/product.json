@@ -211,86 +211,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_jJidxk": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_U4Ugjk": {
-          "type": "heading",
-          "settings": {
-            "heading": "Forever Ready",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text_EnwmM4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Feel confident and ready for anything, with touchably smooth skin that lasts. Your effortlessly beautiful life awaits.</p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_U4Ugjk",
-        "text_EnwmM4"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/TM__8380.jpg",
-        "image_position": "center center",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "auto",
-        "enable_video_looping": false,
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "scrolling_promotion_MRCQV6": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_WTe9Wb": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "FREE DELIVERY ALLL OVER LEBANON",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_WTe9Wb"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_background": "#66550a",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "logocloud_cNxY9g": {
       "type": "logocloud",
       "blocks": {
@@ -359,6 +279,87 @@
         "lazy": true
       }
     },
+    "image_with_text_jJidxk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_U4Ugjk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Forever Ready",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_EnwmM4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Feel confident and ready for anything, with touchably smooth skin that lasts. Your effortlessly beautiful life awaits.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_U4Ugjk",
+        "text_EnwmM4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/TM__8380.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_MRCQV6": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_WTe9Wb": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "FREE DELIVERY ALLL OVER LEBANON",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_WTe9Wb"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#66550a",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "collapsible_content_7WfECL": {
       "type": "collapsible-content",
       "blocks": {
@@ -412,6 +413,31 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "17399149258e7bd886": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_dPWC4z": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_dPWC4z"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -423,6 +449,7 @@
     "logocloud_cNxY9g",
     "image_with_text_jJidxk",
     "scrolling_promotion_MRCQV6",
-    "collapsible_content_7WfECL"
+    "collapsible_content_7WfECL",
+    "17399149258e7bd886"
   ]
 }
