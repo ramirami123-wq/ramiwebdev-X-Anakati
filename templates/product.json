@@ -290,6 +290,128 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "logocloud_cNxY9g": {
+      "type": "logocloud",
+      "blocks": {
+        "slide_fVCM3h": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design-removebg-preview_8e5617aa-8132-4559-ba8b-c61ef3776ca7.png",
+            "link": ""
+          }
+        },
+        "slide_LdarwQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_1.png",
+            "link": ""
+          }
+        },
+        "slide_gtFbfK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_2.png",
+            "link": ""
+          }
+        },
+        "slide_4TLqpj": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_3.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_fVCM3h",
+        "slide_LdarwQ",
+        "slide_gtFbfK",
+        "slide_4TLqpj"
+      ],
+      "settings": {
+        "ss-title": "",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "header_size": 30,
+        "header_align": "center",
+        "scrolling_velocity": 10,
+        "pause_hover": false,
+        "shadow": false,
+        "sliders_mt": 16,
+        "logo_padding_top": 0,
+        "logo_padding_bottom": 0,
+        "slider_gap": 30,
+        "slider_gap_mobile": 30,
+        "slider_direction": "left",
+        "icon_width": 100,
+        "header_color": "#121212",
+        "border_color": "#ffffff",
+        "background-color": "#ffffff",
+        "slider-background-color": "#ffffff",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "collapsible_content_7WfECL": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_hzxffg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does IPL hair removal work?",
+            "row_content": "<p>IPL (Intense Pulsed Light) technology targets the melanin in hair follicles, heating them to slow down and reduce hair growth over time. With consistent use, hair becomes finer and grows back less frequently.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_V3YGdY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is IPL hair removal safe?",
+            "row_content": "<p>Yes! IPL hair removal is designed for safe at-home use. It’s gentle on the skin and comes with multiple intensity settings to suit different skin tones and sensitivities.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GrLARN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does IPL hair removal hurt?",
+            "row_content": "<p>IPL treatments are generally painless, with only a mild warming sensation. The intensity levels can be adjusted for comfort, ensuring a smooth and irritation-free experience.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LFRwUc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use IPL on all body areas?",
+            "row_content": "<p>Yes! IPL can be safely used on legs, arms, underarms, bikini line, and even the face (excluding the eye area). Always follow the instructions for best results.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_hzxffg",
+        "collapsible_row_V3YGdY",
+        "collapsible_row_GrLARN",
+        "collapsible_row_LFRwUc"
+      ],
+      "settings": {
+        "open_first_collapsible_row": false,
+        "narrow": false,
+        "show_divider": false,
+        "heading": "FAQS",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -298,7 +420,9 @@
     "scrolling-promotion",
     "rich_text_6KTatx",
     "product-recommendations",
+    "logocloud_cNxY9g",
     "image_with_text_jJidxk",
-    "scrolling_promotion_MRCQV6"
+    "scrolling_promotion_MRCQV6",
+    "collapsible_content_7WfECL"
   ]
 }
