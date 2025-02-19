@@ -19,6 +19,14 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_GBL8Pj": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "⭐⭐⭐⭐⭐ Based on 397+ Ratings",
+            "text_style": "body"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -81,6 +89,7 @@
         }
       },
       "block_order": [
+        "text_GBL8Pj",
         "title",
         "price",
         "variant_picker",
