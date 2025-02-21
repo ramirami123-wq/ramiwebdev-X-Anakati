@@ -44,10 +44,10 @@
             "heading_tag": "h2",
             "text": "",
             "text_size": "typeset",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "shop now",
+            "button_link": "shopify://products/ipl-hair-removal",
             "button_size": "medium",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
