@@ -313,7 +313,7 @@
         "image_behavior": "none",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
-        "mobile_image_ratio": "auto",
+        "mobile_image_ratio": "adapt",
         "enable_video_looping": false,
         "video_url": "",
         "use_custom_colors": false,
