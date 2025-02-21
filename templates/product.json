@@ -207,6 +207,7 @@
         "slide_AMNnKG",
         "slide_FamkGD"
       ],
+      "disabled": true,
       "settings": {
         "slider_view": 5,
         "slider_view_mobile": 1.5,
