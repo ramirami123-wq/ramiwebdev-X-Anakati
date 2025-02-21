@@ -64,7 +64,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": false,
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
           }
         },
@@ -100,8 +100,13 @@
         "custom_liquid_BNLaL9"
       ],
       "custom_css": [
-        "button {border-radius: 1rem;}",
-        "h1,h2,h3,h4,h5,h6 {font-weight: bold;}"
+        ".badge {background-color: #d72c0d; border-color: #d72c0d; color: #ffffff;}",
+        ".media-wrapper {border-radius: 25px;}",
+        "ul {border-radius: 25px;}",
+        ".thumbnail {--color-foreground: #000000;}",
+        ".product__tax caption rte {display: none;}",
+        "h1,h2,h3,h4,h5,h6 {font-weight: bold;}",
+        ".product-form__submit {border-radius: 1rem; border: 2px solid black; box-shadow: 4px 4px 0 lightgrey; /* Light grey shadow to the bottom and right */}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -114,7 +119,7 @@
         "hide_variants": true,
         "enable_image_zoom": true,
         "enable_video_looping": false,
-        "mobile_image_ratio": "adapt_first",
+        "mobile_image_ratio": "portrait",
         "show_mobile_thumbnails": true,
         "padding_top": 0,
         "padding_bottom": 72
@@ -369,6 +374,47 @@
         "padding_bottom": 20
       }
     },
+    "image_banner_Ka73T6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_yRhxY3": {
+          "type": "heading",
+          "settings": {
+            "heading": "ACHIEVE HAIR-FREE SKIN",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yRhxY3"
+      ],
+      "custom_css": [
+        "* {font-weight: bold;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/TM__8465.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "adapt",
+        "stack_images_on_mobile": true,
+        "show_text_below": false,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 40,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_7WfECL": {
       "type": "collapsible-content",
       "blocks": {
@@ -458,6 +504,7 @@
     "logocloud_cNxY9g",
     "image_with_text_jJidxk",
     "scrolling_promotion_MRCQV6",
+    "image_banner_Ka73T6",
     "collapsible_content_7WfECL",
     "17399149258e7bd886"
   ]
