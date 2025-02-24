@@ -162,8 +162,8 @@
         "slide_PbtEPa": {
           "type": "slide",
           "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "New slide",
+            "video_url": "",
+            "title": "EXAMPLE TEXT",
             "stars_count": 5
           }
         },
