@@ -64,6 +64,7 @@
     "cart_recommendations_heading": "You may also like",
     "cart_recommendations_show_vendor": true,
     "predictive_search_show_vendor": true,
+    "favicon": "shopify://shop_images/1.png",
     "gift_card_logo_height": 70,
     "sections": {
       "main-password-header": {
