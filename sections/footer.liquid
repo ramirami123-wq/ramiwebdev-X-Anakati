@@ -213,7 +213,6 @@
         <div class="footer__copyright">
           <small class="copyright__content">&copy; {{ 'now' | date: "%Y" }}, {{ shop.name | link_to: routes.root_url }}. {{ section.settings.copyright_text }}</small>
           <ul class="policies list-unstyled">
-            <li><small class="copyright__content">website developed by <a href="https://instagram.com/ramiwebdev">ramiwebdev</a></small></li>
             {%- if section.settings.show_policy -%}
               {%- for policy in shop.policies -%}
                 {%- if policy != blank -%}
